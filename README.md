@@ -42,7 +42,7 @@ Built an interpretable model to analyze passenger survival, reporting high valid
 **Data Engineering:** Pandas, NumPy, SQL, FastAPI  
 **Networking:** Cisco, MPLS, OSPF, BGP, FortiGate, VMware  
 **DevOps & Tools:** Git, Docker, Power BI  
-**Languages:** Python, Arabic (Native), English (Fluent), German (B2)
+**Languages:** Arabic (Native), English (Fluent), German (B2)
 
 ---
 
