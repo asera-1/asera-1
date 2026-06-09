@@ -13,12 +13,6 @@ Passionate about designing and implementing innovative solutions at the intersec
 Comprehensive emulation of a multi-branch enterprise network, featuring a spine–leaf data center and end-to-end MPLS SP core.  
 [🔗 Bachelor Graduation Project](https://github.com/asera-1/Bachelor-Graduation-Project-)
 
----
-
-### 📈 Demand Prediction with Prophet & XGBoost
-**Retail Forecasting | FastAPI | Hierarchical Time Series**  
-Built an advanced demand forecasting pipeline that reduced Mean Absolute Error (MAE) from ~2500 to 202, using robust preprocessing, Bayesian optimization, and multi-level reconciliation.  
-[🔗 Time Series ML Project Repository](https://github.com/asera-1/time-series-ml-project)
 
 ---
 
